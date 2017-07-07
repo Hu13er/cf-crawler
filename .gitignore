@@ -1,0 +1,13 @@
+# Data files:
+*.json
+*.dat
+*.csv
+*.bin
+*.sqlite
+
+# Vim:
+*.swp
+
+# macOS:
+.DS_Store
+
